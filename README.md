@@ -18,7 +18,7 @@
   <tr>
     <td align="center">
       <p>👨‍👨‍🎓</p>
-      <b>  2X  Father  </b>
+      <b>  2X  Mother  </b>
     </td>
     <td align="center">
       <p>🕸️</p>
